@@ -1,0 +1,110 @@
+div.one{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: none;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+li a:hover{
+    background-color: white;
+    color: black;
+}
+
+div.two{
+    background-color: crimson;
+    text-align: center;
+    height: 310px;
+    padding: 60px;
+}
+
+h1.header{
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h2.header{
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+button{
+    margin-top: 25px;
+    background-color: black;
+    border-color: black;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15px;
+    width: 100px;
+    height: 40px;
+}
+
+button:hover{
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+
+div.flex-container{
+    display: flex;
+    background-color: white;
+    padding: 40px;
+    height: 360px;
+}
+
+div.three{
+    width: 50%;
+    margin-left: 40px;
+}
+
+h1.main{
+    font-size: 25px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+p.top{
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
+    float: left;
+}
+
+p.bottom{
+    margin-top: 40px;
+    font-size: 14px;
+    font-family: 'Titillium Web', sans-serif;
+    color: grey;
+    float: left;
+}
+
+div.four{
+    width: 50%;
+    font-size: 170px;
+    color: crimson;
+    text-align: center;
+    margin-top: 50px;
+}
+
+div.five{
+    padding: 45px;
+    background-color: grey;
+}
+
+h1.footer{
+    color: white;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
